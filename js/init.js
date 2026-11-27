@@ -1,0 +1,1 @@
+if(!matchMedia('(prefers-reduced-motion:reduce)').matches&&!location.hash&&!(window.scrollY>10))document.documentElement.classList.add('intro')
